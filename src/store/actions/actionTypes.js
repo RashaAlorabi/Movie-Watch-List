@@ -1,0 +1,4 @@
+export const ADDMOVIE = "ADDMOVIE";
+export const WTCHEDMOVIE = "WTCHEDMOVIE";
+export const DELETEMOVIE = "DELETEMOVIE";
+// export const HANDLECHANGE = "HANDLECHANGE";
